@@ -8,8 +8,8 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	"go_scheduler/store"
-	"go_scheduler/task"
+	"github.com/ISchengchen/go_scheduler/store"
+	"github.com/ISchengchen/go_scheduler/task"
 )
 
 type Scheduler struct {

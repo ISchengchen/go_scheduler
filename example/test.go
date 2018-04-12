@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	"go_scheduler/store"
-	"go_scheduler"
+	"github.com/ISchengchen/go_scheduler/store"
+	"github.com/ISchengchen/go_scheduler"
 	"time"
 )
 

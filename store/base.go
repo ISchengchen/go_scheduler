@@ -1,7 +1,7 @@
 package store
 
 import (
-	"go_scheduler/task"
+	"github.com/ISchengchen/go_scheduler/task"
 )
 
 type TaskStore interface {
